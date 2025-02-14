@@ -1,0 +1,1 @@
+Hi, this is a sample file used for demonstrating some exceptions in java, being a part of my learning.
